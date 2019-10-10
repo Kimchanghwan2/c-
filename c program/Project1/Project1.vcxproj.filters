@@ -18,5 +18,8 @@
     <ClCompile Include="wekwelkw.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="qq.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
